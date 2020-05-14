@@ -1,0 +1,17 @@
+.playlist ul {
+    list-style: none;
+    padding: 0;
+}
+
+.playlist ul li {
+    padding-top: 5px;
+}
+
+.playlist {
+    max-width: 500px;
+    margin: auto;
+}
+
+.playlist__heading {
+    text-align: center;
+}

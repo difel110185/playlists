@@ -1,0 +1,13 @@
+.song {
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.good {
+    color: goldenrod;
+}
+
+.bad {
+    color: tomato;
+}
